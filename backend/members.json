@@ -1,0 +1,17 @@
+[
+  {
+    "id": "8ef041e8-6078-46a7-9e11-a990188b000e",
+    "member_code": "MEM00001",
+    "name": "Sahil Garg",
+    "email": "sahil3920.beai23@chitkara.edu.in",
+    "mobile": "9464657352",
+    "password": "$2a$10$RGd525byNyyFglSGAtQQh.iog5K2ir3Q2VfohDdEUpjqIMlRUct0W",
+    "sponsor_code": null,
+    "position": "left",
+    "left_member": null,
+    "right_member": null,
+    "left_count": 0,
+    "right_count": 0,
+    "joining_date": "2025-11-08T04:51:36.481Z"
+  }
+]
